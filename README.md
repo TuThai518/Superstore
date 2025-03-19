@@ -51,5 +51,17 @@ This project analyzes the **Superstore dataset** (from Kaggle) using **Microsoft
 
 ---
 
+## 📊 Power BI Dashboard Previews
+
+### 🔹 Sales and Profit by Demographics
+![Demographics Dashboard](./images/Demographics.jpg)
+
+---
+
+### 🔹 Total Profit Over Years and by Category
+![Profit Dashboard](./images/Profit.jpg)
+
+---
+
 ## 📬 **Contact:**
 Feel free to reach out if you have questions or suggestions!
