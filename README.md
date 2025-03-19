@@ -62,6 +62,3 @@ This project analyzes the **Superstore dataset** (from Kaggle) using **Microsoft
 ![Profit Dashboard](./images/Profit.jpg)
 
 ---
-
-## 📬 **Contact:**
-Feel free to reach out if you have questions or suggestions!
